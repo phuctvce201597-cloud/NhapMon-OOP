@@ -1,0 +1,9 @@
+8
+add,SP001,iPhone 15 Pro,256,true
+add,SP002,Samsung S23 Ultra,512,false
+print
+search,SP002
+check,SP001
+check,SP002
+sort
+clear

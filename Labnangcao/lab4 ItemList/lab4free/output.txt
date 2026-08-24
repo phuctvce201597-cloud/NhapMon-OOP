@@ -1,0 +1,16 @@
+Add vase: {value=300, creator=Vincent, height=50, material=Ceramic}
+Add statue: {value=200, creator=Nguyen, weight=70, colour=Bronze}
+---Item List---
+Vase: {value=300, creator=Vincent, height=50, material=Ceramic}
+Statue: {value=200, creator=Nguyen, weight=70, colour=Bronze}
+
+Sorted list:
+Statue: {value=200, creator=Nguyen, weight=70, colour=Bronze}
+Vase: {value=300, creator=Vincent, height=50, material=Ceramic}
+
+Search result:
+Vase: {value=300, creator=Vincent, height=50, material=Ceramic}
+Remove:
+Statue: {value=200, creator=Nguyen, weight=70, colour=Bronze}
+Vase: {value=300, creator=Vincent, height=50, material=Ceramic}
+

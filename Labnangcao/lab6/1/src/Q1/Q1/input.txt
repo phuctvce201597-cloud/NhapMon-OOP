@@ -1,0 +1,10 @@
+9
+Motorcycle;Honda;Red;2500;150
+ElectricBicycle;Giant;Black;1200;500
+Motorcycle;Yamaha;Blue;3000;200
+Print;Elec
+Start;Honda
+Sort
+Clear
+Print;Elec
+Start;Honda

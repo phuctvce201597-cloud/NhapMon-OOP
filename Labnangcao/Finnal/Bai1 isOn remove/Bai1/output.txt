@@ -1,0 +1,16 @@
+SmartPhone(SP001,iPhone 15 Pro,256 GB,On) is added
+SmartPhone(SP002,Samsung S23 Ultra,512 GB,Off) is added
+---Print---
+SmartPhone(SP001,iPhone 15 Pro,256 GB,On)
+SmartPhone(SP002,Samsung S23 Ultra,512 GB,Off)
+---Search Result---
+SmartPhone(SP002,Samsung S23 Ultra,512 GB,Off)
+---Check Result---
+Device is On
+---Check Result---
+Not found
+Device is Off
+---Sort---
+SmartPhone(SP002,Samsung S23 Ultra,512 GB,Off)
+SmartPhone(SP001,iPhone 15 Pro,256 GB,On)
+* Remove all SmartPhone

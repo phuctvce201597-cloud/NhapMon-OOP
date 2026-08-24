@@ -1,0 +1,7 @@
+6
+Vase;300;Vincent;50;Ceramic
+Statue;200;Nguyen;70;Bronze
+printAll
+sort
+find;Vincent
+remove;0
