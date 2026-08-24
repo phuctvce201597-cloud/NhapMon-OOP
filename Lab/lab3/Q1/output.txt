@@ -1,0 +1,50 @@
+(phone,Smart Device) is added
+(laptop,Portable Computer) is added
+(P02,iPhone 15) is added
+(L02,ThinkPad E14) is added
+(P01,Galaxy S24) is added
+(L01,MacBook Air M2) is added
+---PrintProduct---
+(P02,iPhone 15,Apple,21990.0,128GB,48MP): [Smart Device]
+(L02,ThinkPad E14,Lenovo,22990.0,16GB,Core i5): [Portable Computer]
+(P01,Galaxy S24,Samsung,20990.0,256GB,50MP): [Smart Device]
+(L01,MacBook Air M2,Apple,24990.0,16GB,Apple M2): [Portable Computer]
+---
+---PrintSmartphone---
+(P02,iPhone 15,Apple,21990.0,128GB,48MP): [Smart Device]
+(P01,Galaxy S24,Samsung,20990.0,256GB,50MP): [Smart Device]
+---
+---PrintLaptop---
+(L02,ThinkPad E14,Lenovo,22990.0,16GB,Core i5): [Portable Computer]
+(L01,MacBook Air M2,Apple,24990.0,16GB,Apple M2): [Portable Computer]
+---
+---Search Result---
+(P01,Galaxy S24,Samsung,20990.0,256GB,50MP): [Smart Device]
+---
+---Find Brand---
+(P02,iPhone 15,Apple,21990.0,128GB,48MP): [Smart Device]
+(L01,MacBook Air M2,Apple,24990.0,16GB,Apple M2): [Portable Computer]
+---
+---Sort By Price---
+(P01,Galaxy S24,Samsung,20990.0,256GB,50MP): [Smart Device]
+(P02,iPhone 15,Apple,21990.0,128GB,48MP): [Smart Device]
+(L02,ThinkPad E14,Lenovo,22990.0,16GB,Core i5): [Portable Computer]
+(L01,MacBook Air M2,Apple,24990.0,16GB,Apple M2): [Portable Computer]
+---
+(P02) price is updated
+---Search Result---
+(P02,iPhone 15,Apple,19990.0,128GB,48MP): [Smart Device]
+---
+(L02) is removed
+---PrintProduct---
+(P01,Galaxy S24,Samsung,20990.0,256GB,50MP): [Smart Device]
+(P02,iPhone 15,Apple,19990.0,128GB,48MP): [Smart Device]
+(L01,MacBook Air M2,Apple,24990.0,16GB,Apple M2): [Portable Computer]
+---
+---Find Brand---
+Not found
+---
+---Search Result---
+Not found
+---
+Not found

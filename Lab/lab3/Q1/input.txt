@@ -1,0 +1,20 @@
+19
+AddCategory,phone,Smart Device
+AddCategory,laptop,Portable Computer
+AddSmartphone,P02,iPhone 15,Apple,21990,phone,128,48
+AddLaptop,L02,ThinkPad E14,Lenovo,22990,laptop,16,Core i5
+AddSmartphone,P01,Galaxy S24,Samsung,20990,phone,256,50
+AddLaptop,L01,MacBook Air M2,Apple,24990,laptop,16,Apple M2
+PrintProduct
+PrintSmartphone
+PrintLaptop
+SearchProduct,P01
+FindBrand,Apple
+SortProduct
+UpdatePrice,P02,19990
+SearchProduct,P02
+RemoveProduct,L02
+PrintProduct
+FindBrand,Dell
+SearchProduct,X01
+RemoveProduct,X01

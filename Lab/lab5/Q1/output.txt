@@ -1,0 +1,22 @@
+---Department List---
+Empty
+---Person List---
+Empty
+Add department: CS - Computer Science
+Add department: SE - Software Engineering
+Department already exists: CS
+---Department List---
+Department: CS - Computer Science
+Department: SE - Software Engineering
+---Search Result---
+Not found
+---Find Result---
+Not found
+Not found
+Not found
+Number of persons in department CS: 0
+---Sorted Person List---
+Empty
+* Clear person list
+---Person List---
+Empty

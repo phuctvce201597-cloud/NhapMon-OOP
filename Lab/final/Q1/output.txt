@@ -1,0 +1,23 @@
+SmartPhone(SP001,iPhone 15 Pro,Apple,256 GB,48.0 MP,On,1299.99) is added
+Tablet(TB001,Galaxy Tab S9,Samsung,11.0 inch,Stylus,On,899.50) is added
+SmartPhone(SP002,Galaxy S24 Ultra,Samsung,512 GB,200.0 MP,Off,1199.00) is added
+Duplicate ID
+---Device List---
+SmartPhone(SP001,iPhone 15 Pro,Apple,256 GB,48.0 MP,On,$1299.99)
+Tablet(TB001,Galaxy Tab S9,Samsung,11.0 inch,Stylus,On,$899.50)
+SmartPhone(SP002,Galaxy S24 Ultra,Samsung,512 GB,200.0 MP,Off,$1199.00)
+---Search Result---
+Tablet(TB001,Galaxy Tab S9,Samsung,11.0 inch,Stylus,On,$899.50)
+---Find Result---
+Tablet(TB001,Galaxy Tab S9,Samsung,11.0 inch,Stylus,On,$899.50)
+SmartPhone(SP002,Galaxy S24 Ultra,Samsung,512 GB,200.0 MP,Off,$1199.00)
+Device is Off
+Updated: SP002
+Updated: SP002
+Not found
+---Sort By Price---
+SmartPhone(SP001,iPhone 15 Pro,Apple,256 GB,48.0 MP,On,$1299.99)
+SmartPhone(SP002,Galaxy S24 Ultra,Samsung,512 GB,200.0 MP,On,$999.99)
+Tablet(TB001,Galaxy Tab S9,Samsung,11.0 inch,Stylus,On,$899.50)
+Number of ON devices: 3
+Removed all devices

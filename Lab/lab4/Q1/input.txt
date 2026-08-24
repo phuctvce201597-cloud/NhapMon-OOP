@@ -1,0 +1,13 @@
+12
+Smartphone;1200;Samsung;Galaxy S24;2024;256;50.0
+Laptop;1500;Dell;XPS 13;2023;16;Intel Core i7
+Tablet;900;Apple;iPad Air;2024;11.0;true
+printAll
+find;XPS 13
+search;Apple
+updatePrice;Galaxy S24;1100
+count;Samsung
+sortPrice
+sortYear
+maxPrice
+remove;1

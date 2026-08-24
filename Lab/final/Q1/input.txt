@@ -1,0 +1,15 @@
+14
+addPhone,SP001,iPhone 15 Pro,Apple,1299.99,256,48.0,true
+addTablet,TB001,Galaxy Tab S9,Samsung,899.50,11.0,true,true
+addPhone,SP002,Galaxy S24 Ultra,Samsung,1199.00,512,200.0,false
+addPhone,SP001,iPhone 14,Apple,799.00,128,12.0,true
+print
+search,TB001
+find,samsung
+check,SP002
+updatePrice,SP002,999.99
+updateStatus,SP002,true
+remove,SP999
+sort
+count,ON
+clear

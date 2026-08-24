@@ -1,0 +1,26 @@
+Add smartphone: {price=1200, brand=Samsung, model=Galaxy S24, releaseYear=2024, storage=256, camera=50.0}
+Add laptop: {price=1500, brand=Dell, model=XPS 13, releaseYear=2023, ram=16, processor=Intel Core i7}
+Add tablet: {price=900, brand=Apple, model=iPad Air, releaseYear=2024, screenSize=11.0, hasPen=true}
+---Product List---
+Smartphone: {price=1200, brand=Samsung, model=Galaxy S24, releaseYear=2024, storage=256, camera=50.0}
+Laptop: {price=1500, brand=Dell, model=XPS 13, releaseYear=2023, ram=16, processor=Intel Core i7}
+Tablet: {price=900, brand=Apple, model=iPad Air, releaseYear=2024, screenSize=11.0, hasPen=true}
+Find result:
+Laptop: {price=1500, brand=Dell, model=XPS 13, releaseYear=2023, ram=16, processor=Intel Core i7}
+Search results
+Tablet: {price=900, brand=Apple, model=iPad Air, releaseYear=2024, screenSize=11.0, hasPen=true}
+Update:
+Smartphone: {price=1100, brand=Samsung, model=Galaxy S24, releaseYear=2024, storage=256, camera=50.0}
+Count: 1
+Sorted by price:
+Tablet: {price=900, brand=Apple, model=iPad Air, releaseYear=2024, screenSize=11.0, hasPen=true}
+Smartphone: {price=1100, brand=Samsung, model=Galaxy S24, releaseYear=2024, storage=256, camera=50.0}
+Laptop: {price=1500, brand=Dell, model=XPS 13, releaseYear=2023, ram=16, processor=Intel Core i7}
+Sorted by year:
+Tablet: {price=900, brand=Apple, model=iPad Air, releaseYear=2024, screenSize=11.0, hasPen=true}
+Smartphone: {price=1100, brand=Samsung, model=Galaxy S24, releaseYear=2024, storage=256, camera=50.0}
+Laptop: {price=1500, brand=Dell, model=XPS 13, releaseYear=2023, ram=16, processor=Intel Core i7}
+Most expensive:
+Laptop: {price=1500, brand=Dell, model=XPS 13, releaseYear=2023, ram=16, processor=Intel Core i7}
+Remove:
+Smartphone: {price=1100, brand=Samsung, model=Galaxy S24, releaseYear=2024, storage=256, camera=50.0}
