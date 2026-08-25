@@ -1,0 +1,9 @@
+hoinangcaovehiclecar.truck.Motorbike
+hoinangcaovehiclecar.truck.Vehicle$HoinangcaoVehiclecarTruck
+hoinangcaovehiclecar.truck.Vehicle
+hoinangcaovehiclecar.truck.HoinangcaoVehiclecarTruck
+hoinangcaovehiclecar.truck.Vehicle$Motorbike
+hoinangcaovehiclecar.truck.Vehicle$Car
+hoinangcaovehiclecar.truck.Truck
+hoinangcaovehiclecar.truck.Car
+hoinangcaovehiclecar.truck.Vehicle$Truck
